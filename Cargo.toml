@@ -1,0 +1,8 @@
+[package]
+name = "io_uring-east"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio-uring = "0.4"
+
